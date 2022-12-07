@@ -1,0 +1,58 @@
+com/hoxfon/react/RNTwilioVoice/EventManager.java
+ com.hoxfon.react.RNTwilioVoice.EventManager
+com/hoxfon/react/RNTwilioVoice/SoundPoolManager.java
+ com.hoxfon.react.RNTwilioVoice.SoundPoolManager
+com/hoxfon/react/RNTwilioVoice/ProximityManager.java
+ com.hoxfon.react.RNTwilioVoice.ProximityManager
+ com.hoxfon.react.RNTwilioVoice.ProximityManager$1
+com/hoxfon/react/RNTwilioVoice/CallNotificationManager.java
+ com.hoxfon.react.RNTwilioVoice.CallNotificationManager
+com/hoxfon/react/RNTwilioVoice/screens/UnlockScreenActivity.java
+ com.hoxfon.react.RNTwilioVoice.screens.UnlockScreenActivity
+ com.hoxfon.react.RNTwilioVoice.screens.UnlockScreenActivity$1
+ com.hoxfon.react.RNTwilioVoice.screens.UnlockScreenActivity$2
+ com.hoxfon.react.RNTwilioVoice.screens.UnlockScreenActivity$UnlockScreenBroadcastReceiver
+com/hoxfon/react/RNTwilioVoice/network/VisitorApi.java
+ com.hoxfon.react.RNTwilioVoice.network.VisitorApi
+com/hoxfon/react/RNTwilioVoice/screens/DirectCallScreenActivity.java
+ com.hoxfon.react.RNTwilioVoice.screens.DirectCallScreenActivity
+ com.hoxfon.react.RNTwilioVoice.screens.DirectCallScreenActivity$1
+ com.hoxfon.react.RNTwilioVoice.screens.DirectCallScreenActivity$2
+ com.hoxfon.react.RNTwilioVoice.screens.DirectCallScreenActivity$DirectCallBroadcastReceiver
+com/hoxfon/react/RNTwilioVoice/models/Visitor.java
+ com.hoxfon.react.RNTwilioVoice.models.Visitor
+com/hoxfon/react/RNTwilioVoice/BuildConfig.java
+ com.hoxfon.react.RNTwilioVoice.BuildConfig
+com/hoxfon/react/RNTwilioVoice/TwilioVoicePackage.java
+ com.hoxfon.react.RNTwilioVoice.TwilioVoicePackage
+com/hoxfon/react/RNTwilioVoice/screens/AutomaticCallScreenActivity.java
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity$1
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity$2
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity$3
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity$4
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity$AutomaticCallBroadcastReceiver
+ com.hoxfon.react.RNTwilioVoice.screens.AutomaticCallScreenActivity$ImageDownloader
+com/hoxfon/react/RNTwilioVoice/network/VisitorClient.java
+ com.hoxfon.react.RNTwilioVoice.network.VisitorClient
+com/hoxfon/react/RNTwilioVoice/TwilioVoiceModule.java
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$1
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$2
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$3
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$4
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$5
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$6
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$7
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$8
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$9
+ com.hoxfon.react.RNTwilioVoice.TwilioVoiceModule$VoiceBroadcastReceiver
+com/hoxfon/react/RNTwilioVoice/HeadsetManager.java
+ com.hoxfon.react.RNTwilioVoice.HeadsetManager
+ com.hoxfon.react.RNTwilioVoice.HeadsetManager$1
+com/hoxfon/react/RNTwilioVoice/fcm/VoiceFirebaseMessagingService.java
+ com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService
+ com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService$1
+ com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService$1$1
+ com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService$1$1$1
+ com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService$1$2
